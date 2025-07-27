@@ -1,0 +1,11 @@
+name,subject,marks
+Nimal,Maths,65
+Sunil,Science,88
+Kamal,Sinhala,60
+Amali,Maths,80
+Saman,Science,60
+Ruwan,Sinhala,88
+Priya,Maths,72
+Dilani,Science,80
+Chathura,Sinhala,56
+Ishara,Maths,95

@@ -21,6 +21,9 @@ def get_odd_numbers(upper_limit):
 print("starting generator")
 y = get_odd_numbers(10)        
 print("finishing generator")
+# This will create a generator object that can be iterated over to get odd numbers
+# Using a generator is more memory efficient as it yields one number at a time in stead of storing
+
 for number in y:  # Call the generator function with an upper limit of 10
     print(number)  # Output each odd number yielded by the generator
 
